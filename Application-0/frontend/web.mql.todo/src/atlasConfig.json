@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-zfyogwm",
+    "appUrl": "https://services.cloud.mongodb.com/groups/6634d7c0bd8774654ae56c6d/apps/6635238f6d507f37606f8bd6",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/6634d7c0bd8774654ae56c6d/explorer/todo/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
